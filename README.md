@@ -13,10 +13,6 @@
 - **Secure In-App Messaging**: Ensures safe communication between buyers and sellers with custom messaging, including a profanity filter to maintain a respectful environment.
 - **Easy Product Management**: Users can effortlessly browse, list, and manage products for sale or rent, all from within the app.
 
-### Installation
-
-To run the project locally, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/zarooraat.git
+## Contributor:
+- This project was a group project with [Muhammad Sameer](https://github.com/sameer9992).
+<p align='center'><b>Made with ❤ by Wajahati</b></p>
